@@ -1,0 +1,124 @@
+.header {
+    padding-top: 55px;
+    padding-bottom: 55px;
+    background-image: url(header-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+}
+body {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    background-image: url(url);
+}
+ul {
+    text-align: center;
+}
+li {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #FFFFFF;
+    display: inline;
+}
+li a {
+    color: #FFFFFF;
+    display: inline;
+}
+h1 {
+    padding-left: 35px;
+    font-size: 40px;
+}
+.content p {
+    padding-left: 35px;
+}
+.contenta  {
+    display: block;
+    width: 250px;
+    text-align: center;
+    margin-left: 35px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: #FE0000;
+    color: #FFFFFF;
+}
+.content img {
+    float: right;
+}
+h2 {
+    font-size: 24px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.col-1 p {
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 18px;
+}
+.col-3 p {
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 18px;
+}
+.col-2 p {
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 18px;
+}
+.col-1 a {
+}
+.col-2 a {
+}
+.col-3 a {
+}
+.footera  {
+    color: #FFFFFF;
+}
+.nav {
+    padding-top: 28px;
+    padding-bottom: 28px;
+    background-color: #000000;
+}
+.content {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.col-1 {
+    width: 33.3%;
+    float: left;
+    margin-top: 0px;
+    padding-top: 200px;
+    background-image: url(video-games.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.col-2 {
+    width: 33.3%;
+    float: left;
+    padding-top: 200px;
+    background-image: url(tcg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.col-3 {
+    width: 33.3%;
+    float: left;
+    padding-top: 200px;
+    background-image: url(pokken.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.footer {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    text-align: center;
+    background-color: #000000;
+    background-position: center center;
+    clear: both;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.lia {
+}
+.contenta {
+}
